@@ -118,14 +118,17 @@ plot2d3('gnn',r);
 ```
 
  TABULATION:
+ 
  <img width="732" height="886" alt="image" src="https://github.com/user-attachments/assets/6cd29964-5790-4c9b-9f1c-15bdd808fb2a" />
 
-Calculation
+Calculation:
+
 <img width="335" height="465" alt="image" src="https://github.com/user-attachments/assets/a412b256-0884-4a8b-85c6-d72aaea25884" />
 <img width="391" height="538" alt="image" src="https://github.com/user-attachments/assets/f970184c-828d-478c-90ff-72cbb3aee50b" />
 
 
-Output Waveform
+Output Waveform:
+
 <img width="386" height="361" alt="image" src="https://github.com/user-attachments/assets/5eb6fae9-fb52-44a7-885e-2e236a6dca59" />
 
 RESULT:
