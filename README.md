@@ -11,6 +11,39 @@ EQUIPMENTS REQUIRED
 
 THEORY:
 
+Mean and Variance are important statistical measures used to describe the characteristics of a random variable.
+
+The Mean or Expected Value represents the average value of a random variable and indicates its central tendency. For a continuous random variable X with probability density function f(x), the mean is given by:
+
+E(X) = ∫ x f(x) dx
+
+Similarly, for a random variable Y,
+
+E(Y) = ∫ y f(y) dy
+
+Variance measures the spread or dispersion of the random variable about its mean. It indicates how far the values are distributed from the average value.
+
+The variance of X is given by:
+
+Var(X) = E(X²) – [E(X)]²
+
+where,
+
+E(X²) = ∫ x² f(x) dx
+
+Similarly, the variance of Y is given by:
+
+Var(Y) = E(Y²) – [E(Y)]²
+
+where,
+
+E(Y²) = ∫ y² f(y) dy
+
+A small variance indicates that the values are clustered close to the mean, whereas a large variance indicates a wider spread of values.
+
+Thus, the mean provides the average value of a random variable, while the variance provides a measure of its variability.
+
+
 
 Algorithm
 
@@ -83,15 +116,17 @@ r=corr(x,y,n1);
 
 plot2d3('gnn',r);
 ```
-MODEL GRAPH
- <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
+
  TABULATION:
-<img width="637" height="332" alt="image" src="https://github.com/user-attachments/assets/7ff79056-9cf7-4ff0-a385-703060457972" />
+ <img width="732" height="886" alt="image" src="https://github.com/user-attachments/assets/6cd29964-5790-4c9b-9f1c-15bdd808fb2a" />
+
 Calculation
-<img width="648" height="362" alt="image" src="https://github.com/user-attachments/assets/07db08ba-635e-410e-914a-efc758fa6b82" />
+<img width="335" height="465" alt="image" src="https://github.com/user-attachments/assets/a412b256-0884-4a8b-85c6-d72aaea25884" />
+<img width="391" height="538" alt="image" src="https://github.com/user-attachments/assets/f970184c-828d-478c-90ff-72cbb3aee50b" />
+
 
 Output Waveform
-<img width="760" height="580" alt="image" src="https://github.com/user-attachments/assets/3efbd926-dbb4-4692-9040-b72d6a7faf32" />
+<img width="386" height="361" alt="image" src="https://github.com/user-attachments/assets/5eb6fae9-fb52-44a7-885e-2e236a6dca59" />
 
 RESULT:
-Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
+Thus, the mean and variance of the given random variables are determined using the specified probability density function and the results are verified.
