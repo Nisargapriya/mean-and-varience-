@@ -1,4 +1,4 @@
-# mean-and-varience-
+# mean-and-varience
 
 AIM:
 
